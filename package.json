@@ -1,0 +1,15 @@
+{
+  "name": "weather-node-app",
+  "version": "1.0.0",
+  "description": "Weather node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "yargs": "^15.1.0"
+  }
+}
